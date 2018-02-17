@@ -1,0 +1,8 @@
+<resources>
+    <item name="root" type="id"/>
+    <item name="pager" type="id"/>
+    <string name="app_name">Audd</string>
+    <string name="start_record">Нажмите чтобы распознать</string>
+    <string name="upload_record">Распознавание</string>
+    <string name="record">Запись</string>
+</resources>
